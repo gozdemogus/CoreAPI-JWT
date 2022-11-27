@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dpBn+FOjxMdI/pHThsyZSST+lKfYPbmMeFhVGm7T2usRd9g3PT+VSoPpENz+QNLjP6TlljpPj/Oz3IgHR7MEwQ==",
+  "success": true,
+  "projectFilePath": "/Users/gozdemogus/Projects/AuthServer/MiniApp3/MiniApp3.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/gozdemogus/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/gozdemogus/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.31/microsoft.netcore.app.host.osx-x64.3.1.31.nupkg.sha512",
+    "/Users/gozdemogus/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

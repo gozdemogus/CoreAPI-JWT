@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{8CDD194F-E207-4DB9-B697-5165841F3BE5}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AuthServer.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SharedLibrary/Dtos/Response.cs">
+    <Files>
+      <File FileName="AuthServer.API/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="AuthServer.Core/Class1.cs" Line="1" Column="1" />
+      <File FileName="AuthServer.Data/Class1.cs" Line="1" Column="1" />
+      <File FileName="SharedLibrary/SharedLibrary.csproj" Line="7" Column="60" />
+      <File FileName="AuthServer.Core/Model/Product.cs" Line="15" Column="1" />
+      <File FileName="AuthServer.Core/Model/UserApp.cs" Line="12" Column="1" />
+      <File FileName="AuthServer.Core/Model/UserRefreshToken.cs" Line="10" Column="21" />
+      <File FileName="AuthServer.Core/Repositories/IGenericRepository.cs" Line="19" Column="31" />
+      <File FileName="SharedLibrary/Dtos/ErrorDto.cs" Line="6" Column="15" />
+      <File FileName="SharedLibrary/Dtos/Response.cs" Line="12" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AuthServer" expanded="True">
+            <Node name="AuthServer.Core" expanded="True">
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="SharedLibrary" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Dtos" expanded="True">
+                <Node name="Response.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

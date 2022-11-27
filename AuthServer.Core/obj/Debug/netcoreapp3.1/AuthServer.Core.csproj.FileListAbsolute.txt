@@ -1,0 +1,10 @@
+/Users/gozdemogus/Projects/AuthServer/AuthServer.Core/bin/Debug/netcoreapp3.1/AuthServer.Core.deps.json
+/Users/gozdemogus/Projects/AuthServer/AuthServer.Core/bin/Debug/netcoreapp3.1/AuthServer.Core.dll
+/Users/gozdemogus/Projects/AuthServer/AuthServer.Core/bin/Debug/netcoreapp3.1/AuthServer.Core.pdb
+/Users/gozdemogus/Projects/AuthServer/AuthServer.Core/obj/Debug/netcoreapp3.1/AuthServer.Core.csproj.AssemblyReference.cache
+/Users/gozdemogus/Projects/AuthServer/AuthServer.Core/obj/Debug/netcoreapp3.1/AuthServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gozdemogus/Projects/AuthServer/AuthServer.Core/obj/Debug/netcoreapp3.1/AuthServer.Core.AssemblyInfoInputs.cache
+/Users/gozdemogus/Projects/AuthServer/AuthServer.Core/obj/Debug/netcoreapp3.1/AuthServer.Core.AssemblyInfo.cs
+/Users/gozdemogus/Projects/AuthServer/AuthServer.Core/obj/Debug/netcoreapp3.1/AuthServer.Core.csproj.CoreCompileInputs.cache
+/Users/gozdemogus/Projects/AuthServer/AuthServer.Core/obj/Debug/netcoreapp3.1/AuthServer.Core.dll
+/Users/gozdemogus/Projects/AuthServer/AuthServer.Core/obj/Debug/netcoreapp3.1/AuthServer.Core.pdb

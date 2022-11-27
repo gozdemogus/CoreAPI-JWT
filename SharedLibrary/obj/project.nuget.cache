@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xRj7CGlJo37RWZbSHlhcByC9bcMH6lQfFSM66fL/s7XnQQDBtROhlnGJb75e5hCjvG7ddAr9wHWTXOGQefjJ9w==",
+  "success": true,
+  "projectFilePath": "/Users/gozdemogus/Projects/AuthServer/SharedLibrary/SharedLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/gozdemogus/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/gozdemogus/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

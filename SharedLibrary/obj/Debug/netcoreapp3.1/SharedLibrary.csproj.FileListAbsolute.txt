@@ -1,0 +1,10 @@
+/Users/gozdemogus/Projects/AuthServer/SharedLibrary/bin/Debug/netcoreapp3.1/SharedLibrary.deps.json
+/Users/gozdemogus/Projects/AuthServer/SharedLibrary/bin/Debug/netcoreapp3.1/SharedLibrary.dll
+/Users/gozdemogus/Projects/AuthServer/SharedLibrary/bin/Debug/netcoreapp3.1/SharedLibrary.pdb
+/Users/gozdemogus/Projects/AuthServer/SharedLibrary/obj/Debug/netcoreapp3.1/SharedLibrary.csproj.AssemblyReference.cache
+/Users/gozdemogus/Projects/AuthServer/SharedLibrary/obj/Debug/netcoreapp3.1/SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gozdemogus/Projects/AuthServer/SharedLibrary/obj/Debug/netcoreapp3.1/SharedLibrary.AssemblyInfoInputs.cache
+/Users/gozdemogus/Projects/AuthServer/SharedLibrary/obj/Debug/netcoreapp3.1/SharedLibrary.AssemblyInfo.cs
+/Users/gozdemogus/Projects/AuthServer/SharedLibrary/obj/Debug/netcoreapp3.1/SharedLibrary.csproj.CoreCompileInputs.cache
+/Users/gozdemogus/Projects/AuthServer/SharedLibrary/obj/Debug/netcoreapp3.1/SharedLibrary.dll
+/Users/gozdemogus/Projects/AuthServer/SharedLibrary/obj/Debug/netcoreapp3.1/SharedLibrary.pdb
